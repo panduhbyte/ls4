@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/panduh/Documents/Code_Projects/ls4/main.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+cstring
+-
+vector
+-
+string
+-
+list
+-
+
